@@ -1,0 +1,657 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-venecia-sevilla",
+ "source_site": "https://www.hotelveneciasevilla.es/",
+ "source_read_at": "2026-10-29T10:51:00+01:00",
+ "note": "Respuestas solo con datos publicados en hotelveneciasevilla.es. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "individual",
+     "doble",
+     "supletoria"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio",
+     "individual",
+     "doble",
+     "supletori"
+    ],
+    "en": [
+     "what rooms",
+     "room types",
+     "single",
+     "double",
+     "extra bed"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "individuelle",
+     "double",
+     "lit d appoint"
+    ]
+   },
+   "a": {
+    "es": "Es un hotel de 21 habitaciones: individual (10 m², cama de 135×190), doble (15 m², con una o dos camas), doble con cama supletoria y familiar para 4 personas.",
+    "ca": "És un hotel de 21 habitacions: individual (10 m², llit de 135×190), doble (15 m², amb un o dos llits), doble amb llit supletori i familiar per a 4 persones.",
+    "en": "It is a 21-room hotel: single (10 m², 135×190 bed), double (15 m², with one or two beds), double with an extra bed and a family room for 4 guests.",
+    "fr": "C'est un hôtel de 21 chambres : individuelle (10 m², lit de 135×190), double (15 m², avec un ou deux lits), double avec lit d'appoint et familiale pour 4 personnes."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/habitaciones-hotel-venecia/",
+     "quote": "Las dimensiones de nuestro exclusivo hotel de 21 habitaciones"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/habitaciones-hotel-venecia/",
+     "quote": "Disfrute de sus 10m2 y su amplia cama de 135×190."
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/habitaciones-hotel-venecia/",
+     "quote": "Habitaciones amplias de 15m2, de corte moderno y minimalista"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/habitaciones-hotel-venecia/",
+     "quote": "Disponibles con una o dos camas."
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/habitaciones-hotel-venecia/",
+     "quote": "Habitación Doble con cama supletoria"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/habitaciones-hotel-venecia/",
+     "quote": "Nuestra habitación estrella con capacidad para 4 personas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "habitación familiar",
+   "keys": {
+    "es": [
+     "familiar",
+     "familia",
+     "niños",
+     "grupo de amigos"
+    ],
+    "ca": [
+     "familiar",
+     "familia",
+     "nens",
+     "grup d amics"
+    ],
+    "en": [
+     "family",
+     "children",
+     "kids",
+     "group of friends"
+    ],
+    "fr": [
+     "familiale",
+     "famille",
+     "enfants",
+     "groupe d amis"
+    ]
+   },
+   "a": {
+    "es": "La habitación familiar es para 4 personas: dos dormitorios dobles independientes que comparten un baño común, cada uno con 2 camas de 90×190 cm.",
+    "ca": "L'habitació familiar és per a 4 persones: dos dormitoris dobles independents que comparteixen un bany comú, cadascun amb 2 llits de 90×190 cm.",
+    "en": "The family room is for 4 guests: two separate double bedrooms sharing one bathroom, each with 2 beds of 90×190 cm.",
+    "fr": "La chambre familiale accueille 4 personnes : deux chambres doubles indépendantes partageant une salle de bain commune, chacune avec 2 lits de 90×190 cm."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/habitaciones-hotel-venecia/",
+     "quote": "Nuestra habitación estrella con capacidad para 4 personas"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/habitaciones-hotel-venecia/",
+     "quote": "Se trata de una amplia habitación distribuida en dos dormitorios dobles independientes compartiendo ambos un mismo baño común. Cada dormitorio tiene 2 camas de 90x190cm."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayun",
+     "cafeteria"
+    ],
+    "ca": [
+     "esmorz",
+     "cafeteria"
+    ],
+    "en": [
+     "breakfast",
+     "cafeteria"
+    ],
+    "fr": [
+     "petit dejeuner",
+     "cafeteria"
+    ]
+   },
+   "a": {
+    "es": "Sí: el hotel tiene cafetería y puedes desayunar allí. El desayuno se paga aparte; confirma el importe con el hotel.",
+    "ca": "Sí: l'hotel té cafeteria i hi pots esmorzar. L'esmorzar es paga a part; confirma l'import amb l'hotel.",
+    "en": "Yes: the hotel has a café where you can have breakfast. Breakfast is paid separately; confirm the amount with the hotel.",
+    "fr": "Oui : l'hôtel a une cafétéria où prendre le petit-déjeuner. Il est payant à part ; confirmez le montant auprès de l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "El Hotel Venecia está dotado de cafetería, por lo que sí podrá desayunar en nuestro establecimiento."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcamiento",
+     "aparcar",
+     "garaje",
+     "plaza de aparcamiento"
+    ],
+    "ca": [
+     "parking",
+     "parquing",
+     "aparcament",
+     "aparcar",
+     "garatge"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "garage"
+    ],
+    "fr": [
+     "parking",
+     "stationnement",
+     "garer",
+     "garage"
+    ]
+   },
+   "a": {
+    "es": "Tiene parking privado en el propio edificio, con cargo adicional por día. Aconseja reservar la plaza porque hay pocas y recomienda vehículos de no más de 4,50 metros; si no cabe o no hay sitio, se puede usar el parking de El Corte Inglés con la misma tarifa por convenio.",
+    "ca": "Té pàrquing privat al mateix edifici, amb càrrec addicional per dia. Aconsella reservar la plaça perquè n'hi ha poques i recomana vehicles de no més de 4,50 metres; si no hi cap o no hi ha lloc, es pot fer servir el pàrquing d'El Corte Inglés amb la mateixa tarifa per conveni.",
+    "en": "It has private parking in the building itself, charged per day. It advises booking a space because there are few, and recommends vehicles no longer than 4,50 metres; otherwise you can use the El Corte Inglés car park at the same rate under an agreement.",
+    "fr": "Il dispose d'un parking privé dans l'immeuble, payant à la journée. Il conseille de réserver la place car il y en a peu et recommande des véhicules de 4,50 mètres maximum ; sinon, le parking d'El Corte Inglés est disponible au même tarif grâce à un accord."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "Hotel Venecia dispone de parking privado en el propio edificio. Dicho servicio supone un cargo adicional"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "Le aconsejamos que realice su reserva debido al reducido número de plazas de aparcamiento que disponemos."
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "recomendamos nuestro parking para vehículos no mas largos de 4,50 metros"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "podrá aparcar su vehículo en el parking privado de El Corte Inglés y que gracias al convenio firmado con Hotel Venecia la tarifa aplicable será la misma que la de nuestro parking"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "acceso en coche",
+   "keys": {
+    "es": [
+     "coche",
+     "trafico",
+     "obras",
+     "vehiculo"
+    ],
+    "ca": [
+     "cotxe",
+     "transit",
+     "obres",
+     "vehicle"
+    ],
+    "en": [
+     " car ",
+     "traffic",
+     "roadworks",
+     "vehicle"
+    ],
+    "fr": [
+     "voiture",
+     "circulation",
+     "travaux",
+     "vehicule"
+    ]
+   },
+   "a": {
+    "es": "Aviso del hotel: la calle Trajano está cerrada al tráfico por obras del Ayuntamiento desde el 19 de mayo de 2026 hasta el 4 de febrero de 2027 y solo es accesible a pie. Para más información, contacta con el hotel.",
+    "ca": "Avís de l'hotel: el carrer Trajano està tancat al trànsit per obres de l'Ajuntament des del 19 de maig de 2026 fins al 4 de febrer de 2027 i només s'hi accedeix a peu. Per a més informació, contacta amb l'hotel.",
+    "en": "Hotel notice: Calle Trajano is closed to traffic for city council works from 19 May 2026 to 4 February 2027 and is only accessible on foot. For more information, contact the hotel.",
+    "fr": "Avis de l'hôtel : la calle Trajano est fermée à la circulation pour des travaux municipaux du 19 mai 2026 au 4 février 2027 et n'est accessible qu'à pied. Pour plus d'informations, contactez l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/",
+     "quote": "la calle Trajano, donde se ubica nuestro hotel, permanecerá cerrada al tráfico desde el 19 de mayo de 2026 al 4 de febrero de 2027 debido a la ejecución de obras de renovación de la vía pública por parte del Ayuntamiento de Sevilla. Únicamente será accesible a pie."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "como llegar",
+     "trajano",
+     "aeropuerto",
+     "santa justa"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "com arribar",
+     "trajano",
+     "aeroport",
+     "santa justa"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "how to get",
+     "trajano",
+     "airport",
+     "santa justa"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "comment venir",
+     "trajano",
+     "aeroport",
+     "santa justa"
+    ]
+   },
+   "a": {
+    "es": "Está en C/ Trajano, 31, 41002 Sevilla, en pleno centro histórico, entre la Alameda de Hércules y la plaza del Duque de la Victoria, a un paso de la calle Sierpes y a 10 minutos a pie de la Catedral o el Alcázar. Desde el aeropuerto, en taxi son unos 30 minutos.",
+    "ca": "És a C/ Trajano, 31, 41002 Sevilla, al centre històric, entre l'Alameda de Hércules i la plaça del Duque de la Victoria, a un pas del carrer Sierpes i a 10 minuts a peu de la Catedral o l'Alcázar. Des de l'aeroport, en taxi són uns 30 minuts.",
+    "en": "It is at C/ Trajano, 31, 41002 Seville, in the historic centre, between the Alameda de Hércules and Plaza del Duque de la Victoria, a step from Calle Sierpes and a 10-minute walk from the Cathedral or the Alcázar. From the airport, it is about 30 minutes by taxi.",
+    "fr": "Il se trouve C/ Trajano, 31, 41002 Séville, dans le centre historique, entre l'Alameda de Hércules et la plaza del Duque de la Victoria, à deux pas de la calle Sierpes et à 10 minutes à pied de la Cathédrale ou de l'Alcázar. Depuis l'aéroport, environ 30 minutes en taxi."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/",
+     "quote": "C/ Trajano, 31. 41002 - Sevilla (ESPAÑA)"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/situacion/",
+     "quote": "entre la Alameda de Hércules y la plaza del Duque de la Victoria, a un paso de la popular calle Sierpes y del Museo de Bellas Artes y tan sólo 10 minutos a pie de la Catedral de Sevilla o el Alcázar."
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/situacion/",
+     "quote": "El trayecto dura unos 30 minutos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "qué ver",
+   "keys": {
+    "es": [
+     "que ver",
+     "visitar",
+     "catedral",
+     "giralda",
+     "alcazar",
+     "museo",
+     "monumento"
+    ],
+    "ca": [
+     "que es pot veure",
+     "que veure",
+     "visitar",
+     "catedral",
+     "giralda",
+     "alcazar",
+     "museu",
+     "monument"
+    ],
+    "en": [
+     "to see",
+     "visit",
+     "cathedral",
+     "giralda",
+     "alcazar",
+     "museum",
+     "monument"
+    ],
+    "fr": [
+     "voir",
+     "visiter",
+     "cathedrale",
+     "giralda",
+     "alcazar",
+     "musee",
+     "monument"
+    ]
+   },
+   "a": {
+    "es": "Su web propone, entre otros, la Catedral y la Giralda, los Reales Alcázares, el Archivo de Indias, la Torre del Oro, la Plaza de España, el barrio de Santa Cruz y el Museo de Bellas Artes.",
+    "ca": "La seva web proposa, entre d'altres, la Catedral i la Giralda, els Reales Alcázares, l'Archivo de Indias, la Torre del Oro, la Plaza de España, el barri de Santa Cruz i el Museu de Belles Arts.",
+    "en": "Its website suggests, among others, the Cathedral and the Giralda, the Royal Alcázar, the Archivo de Indias, the Torre del Oro, Plaza de España, the Santa Cruz quarter and the Museum of Fine Arts.",
+    "fr": "Son site propose, entre autres, la Cathédrale et la Giralda, les Reales Alcázares, l'Archivo de Indias, la Torre del Oro, la Plaza de España, le quartier de Santa Cruz et le musée des Beaux-Arts."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/experiencias/",
+     "quote": "La Catedral y la Giralda Los Reales Alcázares El Archivo de Indias Plaza de Toros Torre del Oro Plaza de España"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/experiencias/",
+     "quote": "Barrio de Santa Cruz"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/experiencias/",
+     "quote": "Museo de Bellas Artes"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "servicios",
+   "keys": {
+    "es": [
+     "servicios",
+     "recepcion",
+     "cuna",
+     "caja fuerte",
+     "wifi",
+     "aire acondicionado",
+     "consigna",
+     "venta de entradas",
+     "ascensor"
+    ],
+    "ca": [
+     "serveis",
+     "recepcio",
+     "bressol",
+     "caixa forta",
+     "wifi",
+     "aire condicionat",
+     "consigna",
+     "venda d entrades",
+     "ascensor"
+    ],
+    "en": [
+     "services",
+     "reception",
+     "cot",
+     "safe",
+     "wifi",
+     "air conditioning",
+     "luggage",
+     "tickets",
+     "lift"
+    ],
+    "fr": [
+     "services",
+     "reception",
+     "lit bebe",
+     "coffre",
+     "wifi",
+     "climatisation",
+     "bagages",
+     "billets",
+     "ascenseur"
+    ]
+   },
+   "a": {
+    "es": "Servicios: wifi gratuito, parking privado, aire acondicionado y calefacción, habitaciones insonorizadas, cuna gratis para menores de 2 años, caja fuerte gratuita, recepción 24 horas, consigna, ascensor, secador, plancha, hervidor para té y café y venta de entradas y visitas turísticas.",
+    "ca": "Serveis: wifi gratuït, pàrquing privat, aire condicionat i calefacció, habitacions insonoritzades, bressol gratis per a menors de 2 anys, caixa forta gratuïta, recepció 24 hores, consigna, ascensor, assecador, planxa, bullidor per a te i cafè i venda d'entrades i visites turístiques.",
+    "en": "Services: free wifi, private parking, air conditioning and heating, soundproofed rooms, free cot for under 2s, free safe, 24-hour reception, luggage storage, lift, hairdryer, iron, kettle for tea and coffee, and tickets and sightseeing tours.",
+    "fr": "Services : wifi gratuit, parking privé, climatisation et chauffage, chambres insonorisées, lit bébé gratuit pour les moins de 2 ans, coffre-fort gratuit, réception 24 heures, consigne, ascenseur, sèche-cheveux, fer à repasser, bouilloire pour thé et café, et vente de billets et visites touristiques."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/servicios/",
+     "quote": "Wifi gratuito* Parking privado Aire acondicionado / calefacción Habitaciones insonorizadas Cuna gratis (menores de 2 años) Caja fuerte gratuita"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/servicios/",
+     "quote": "Recepción 24 horas"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/servicios/",
+     "quote": "Consigna Venta de entradas / visitas turísticas"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/servicios/",
+     "quote": "Ascensor Secador Plancha Hervidor/instalaciones para preparar té y café"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "entrada y salida",
+   "keys": {
+    "es": [
+     "hora de entrada",
+     "entrada",
+     "salida",
+     "check in",
+     "check out",
+     "maletas"
+    ],
+    "ca": [
+     "hora d entrada",
+     "entrada",
+     "sortida",
+     "check in",
+     "check out",
+     "maletes"
+    ],
+    "en": [
+     "check in",
+     "check out",
+     "arrival time",
+     "luggage before"
+    ],
+    "fr": [
+     "heure d arrivee",
+     "arrivee",
+     "depart",
+     "check in",
+     "check out",
+     "valises"
+    ]
+   },
+   "a": {
+    "es": "La entrada a la habitación es a las 13:00 h y la salida, como máximo, a las 12:00 h. Si llegas antes, pueden guardarte las maletas gratis en recepción. La salida tardía depende de la disponibilidad y tiene coste adicional.",
+    "ca": "L'entrada a l'habitació és a les 13:00 h i la sortida, com a màxim, a les 12:00 h. Si arribes abans, et poden guardar les maletes gratis a recepció. La sortida tardana depèn de la disponibilitat i té cost addicional.",
+    "en": "Check-in is at 13:00 and check-out is by 12:00 at the latest. If you arrive earlier, they can store your luggage free of charge at reception. Late check-out depends on availability and has an extra charge.",
+    "fr": "L'arrivée est à 13:00 et le départ au plus tard à 12:00. Si vous arrivez plus tôt, vos bagages peuvent être gardés gratuitement à la réception. Le départ tardif dépend de la disponibilité et est payant."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "La hora estándar de entrada a la habitación del hotel el día de llegada es la 13:00h."
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "La hora máxima para dejar libre la habitación el día de salida son las 12:00 horas del mediodía."
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "podemos guardar gratuitamente sus maletas en la recepción hasta dicha hora"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "El servicio de late check-out tiene un coste adicional"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 954 381 161 o escribir a info@hotelveneciasevilla.es. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 954 381 161 o escriure a info@hotelveneciasevilla.es. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book on its booking engine (Book button), call +34 954 381 161 or email info@hotelveneciasevilla.es. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 954 381 161 ou écrire à info@hotelveneciasevilla.es. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "Para realizar su reserva puede contactar con nuestro departamento de reservas a través del teléfono (+34) 954 381 161 o enviarnos una petición desde la sección Reservas de nuestra web."
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/",
+     "quote": "info@hotelveneciasevilla.es"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K11",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "gat",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     " cat ",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     "chien",
+     "chat"
+    ]
+   },
+   "a": {
+    "es": "No: las mascotas no están permitidas en el hotel ni en las habitaciones.",
+    "ca": "No: les mascotes no estan permeses a l'hotel ni a les habitacions.",
+    "en": "No: pets are not allowed in the hotel or in the rooms.",
+    "fr": "Non : les animaux ne sont admis ni dans l'hôtel ni dans les chambres."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+     "quote": "Lamentablemente nuestras amigas las mascotas no están permitidas en el hotel (ni en las habitaciones)."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica que el titular de la web es Hotel Venecia S.L., CIF B-91848143; es un hotel de tres estrellas inscrito en el Registro de Turismo de Andalucía con el número H-SE-00564.",
+    "ca": "El seu avís legal indica que el titular del web és Hotel Venecia S.L., CIF B-91848143; és un hotel de tres estrelles inscrit al Registre de Turisme d'Andalusia amb el número H-SE-00564.",
+    "en": "Its legal notice says the website owner is Hotel Venecia S.L., CIF B-91848143; it is a three-star hotel registered in the Andalusian Tourism Registry under number H-SE-00564.",
+    "fr": "Sa mention légale indique que le titulaire du site est Hotel Venecia S.L., CIF B-91848143 ; c'est un hôtel trois étoiles inscrit au Registre du tourisme d'Andalousie sous le numéro H-SE-00564."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelveneciasevilla.es/aviso-legal/",
+     "quote": "el titular de esta web es Hotel Venecia S.L., con CIF B-91848143"
+    },
+    {
+     "url": "https://www.hotelveneciasevilla.es/aviso-legal/",
+     "quote": "El Hotel Venecia es un hotel de tres estrellas, modalidad ciudad, inscrito en el Registro de Turismo de Andalucía (RTA) con el número H-SE-00564"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
