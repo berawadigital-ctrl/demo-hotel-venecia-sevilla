@@ -1,0 +1,69 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-venecia-sevilla",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T11:00:00+01:00",
+ "updated_at": "2026-10-29T11:00:00+01:00",
+ "business": {
+  "name": "Hotel Venecia",
+  "legal_name": "Hotel Venecia S.L.",
+  "registry_ids": [
+   "CIF B-91848143",
+   "Registro de Turismo de Andalucía H-SE-00564"
+  ],
+  "url": "https://www.hotelveneciasevilla.es/",
+  "domain": "hotelveneciasevilla.es",
+  "municipality": "Sevilla",
+  "province": "Sevilla",
+  "address": "C/ Trajano, 31 · 41002 Sevilla",
+  "phones": [
+   "+34 954 381 161"
+  ],
+  "emails": [
+   "info@hotelveneciasevilla.es"
+  ],
+  "sector": "hotel en el centro histórico de Sevilla"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Venecia+Sevilla/@37.3954209,-5.995145,17z/data=!4m9!3m8!1s0xd126c0f40c0517f:0xb90476d861e43fba!5m2!4m1!1i2!8m2!3d37.3954209!4d-5.995145!16s%2Fg%2F1tdygwws",
+  "date": "2026-10-29T10:19:09+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://booking.redforts.com/BHq8/",
+   "ca": "https://booking.redforts.com/BHq8/",
+   "en": "https://booking.redforts.com/BHq8/",
+   "fr": "https://booking.redforts.com/BHq8/"
+  },
+  "note": "Las reservas van al motor de reservas real del hotel (Redforts, booking.redforts.com/BHq8/, titulo «HOTEL VENECIA - Redforts»; es el widget.js que carga el buscador de su portada); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.hotelveneciasevilla.es/",
+  "date": "2026-10-29T10:49:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: hotel con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
