@@ -1,0 +1,445 @@
+{
+ "url": "file:///tmp/clon-hotel-venecia-sevilla/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es un hotel de 21 habitaciones: individual (10 m², cama de 135×190), doble (15 m², con una o dos camas), doble con cama supletoria y familia"
+    },
+    {
+     "q": "¿Cómo es la habitación familiar?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La habitación familiar es para 4 personas: dos dormitorios dobles independientes que comparten un baño común, cada uno con 2 camas de 90×190"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: el hotel tiene cafetería y puedes desayunar allí. El desayuno se paga aparte; confirma el importe con el hotel."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Tiene parking privado en el propio edificio, con cargo adicional por día. Aconseja reservar la plaza porque hay pocas y recomienda vehículos"
+    },
+    {
+     "q": "¿Se puede llegar en coche?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Aviso del hotel: la calle Trajano está cerrada al tráfico por obras del Ayuntamiento desde el 19 de mayo de 2026 hasta el 4 de febrero de 20"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Está en C/ Trajano, 31, 41002 Sevilla, en pleno centro histórico, entre la Alameda de Hércules y la plaza del Duque de la Victoria, a un pas"
+    },
+    {
+     "q": "¿Qué ver cerca?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Su web propone, entre otros, la Catedral y la Giralda, los Reales Alcázares, el Archivo de Indias, la Torre del Oro, la Plaza de España, el "
+    },
+    {
+     "q": "¿Qué servicios tiene?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Servicios: wifi gratuito, parking privado, aire acondicionado y calefacción, habitaciones insonorizadas, cuna gratis para menores de 2 años,"
+    },
+    {
+     "q": "¿A qué hora es la entrada?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La entrada a la habitación es a las 13:00 h y la salida, como máximo, a las 12:00 h. Si llegas antes, pueden guardarte las maletas gratis en"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 954 381 161 o escribir a info@hotelveneciasevilla.es. Este asistente"
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "No: las mascotas no están permitidas en el hotel ni en las habitaciones."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Su aviso legal indica que el titular de la web es Hotel Venecia S.L., CIF B-91848143; es un hotel de tres estrellas inscrito en el Registro "
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 954 381 161 · info@hotelveneciasevilla.es."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 954 381 161 o escribir a info@hotelveneciasevilla.es. Este asistente"
+    },
+    {
+     "q": "¿Tienen gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 954 381 161 · info@hotelveneciasevilla.es."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 954 381 161 · info@hotelveneciasevilla.es."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Hay parking?",
+    "¿Hay desayuno?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "És un hotel de 21 habitacions: individual (10 m², llit de 135×190), doble (15 m², amb un o dos llits), doble amb llit supletori i familiar p"
+    },
+    {
+     "q": "Com és l'habitació familiar?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "L'habitació familiar és per a 4 persones: dos dormitoris dobles independents que comparteixen un bany comú, cadascun amb 2 llits de 90×190 c"
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: l'hotel té cafeteria i hi pots esmorzar. L'esmorzar es paga a part; confirma l'import amb l'hotel."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Té pàrquing privat al mateix edifici, amb càrrec addicional per dia. Aconsella reservar la plaça perquè n'hi ha poques i recomana vehicles d"
+    },
+    {
+     "q": "S'hi pot arribar amb cotxe?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Avís de l'hotel: el carrer Trajano està tancat al trànsit per obres de l'Ajuntament des del 19 de maig de 2026 fins al 4 de febrer de 2027 i"
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "És a C/ Trajano, 31, 41002 Sevilla, al centre històric, entre l'Alameda de Hércules i la plaça del Duque de la Victoria, a un pas del carrer"
+    },
+    {
+     "q": "Què es pot veure a prop?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "La seva web proposa, entre d'altres, la Catedral i la Giralda, els Reales Alcázares, l'Archivo de Indias, la Torre del Oro, la Plaza de Espa"
+    },
+    {
+     "q": "Quins serveis té?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Serveis: wifi gratuït, pàrquing privat, aire condicionat i calefacció, habitacions insonoritzades, bressol gratis per a menors de 2 anys, ca"
+    },
+    {
+     "q": "A quina hora és l'entrada?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "L'entrada a l'habitació és a les 13:00 h i la sortida, com a màxim, a les 12:00 h. Si arribes abans, et poden guardar les maletes gratis a r"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 954 381 161 o escriure a info@hotelveneciasevilla.es. Aquest assistent"
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "No: les mascotes no estan permeses a l'hotel ni a les habitacions."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "El seu avís legal indica que el titular del web és Hotel Venecia S.L., CIF B-91848143; és un hotel de tres estrelles inscrit al Registre de "
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 954 381 161 · info@hotelveneciasevilla.es."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 954 381 161 o escriure a info@hotelveneciasevilla.es. Aquest assistent"
+    },
+    {
+     "q": "Teniu gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 954 381 161 · info@hotelveneciasevilla.es."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 954 381 161 · info@hotelveneciasevilla.es."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Hi ha pàrquing?",
+    "Hi ha esmorzar?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It is a 21-room hotel: single (10 m², 135×190 bed), double (15 m², with one or two beds), double with an extra bed and a family room for 4 g"
+    },
+    {
+     "q": "What is the family room like?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The family room is for 4 guests: two separate double bedrooms sharing one bathroom, each with 2 beds of 90×190 cm."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: the hotel has a café where you can have breakfast. Breakfast is paid separately; confirm the amount with the hotel."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "It has private parking in the building itself, charged per day. It advises booking a space because there are few, and recommends vehicles no"
+    },
+    {
+     "q": "Is the street open to traffic?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Hotel notice: Calle Trajano is closed to traffic for city council works from 19 May 2026 to 4 February 2027 and is only accessible on foot. "
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "It is at C/ Trajano, 31, 41002 Seville, in the historic centre, between the Alameda de Hércules and Plaza del Duque de la Victoria, a step f"
+    },
+    {
+     "q": "What is there to see nearby?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Its website suggests, among others, the Cathedral and the Giralda, the Royal Alcázar, the Archivo de Indias, the Torre del Oro, Plaza de Esp"
+    },
+    {
+     "q": "What services does it offer?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Services: free wifi, private parking, air conditioning and heating, soundproofed rooms, free cot for under 2s, free safe, 24-hour reception,"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Check-in is at 13:00 and check-out is by 12:00 at the latest. If you arrive earlier, they can store your luggage free of charge at reception"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 954 381 161 or email info@hotelveneciasevilla.es. This assistant does not confirm"
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "No: pets are not allowed in the hotel or in the rooms."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Its legal notice says the website owner is Hotel Venecia S.L., CIF B-91848143; it is a three-star hotel registered in the Andalusian Tourism"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 954 381 161 · info@hotelveneciasevilla.es."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 954 381 161 or email info@hotelveneciasevilla.es. This assistant does not confirm"
+    },
+    {
+     "q": "Do you have a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 954 381 161 · info@hotelveneciasevilla.es."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 954 381 161 · info@hotelveneciasevilla.es."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is there parking?",
+    "Is there breakfast?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "C'est un hôtel de 21 chambres : individuelle (10 m², lit de 135×190), double (15 m², avec un ou deux lits), double avec lit d'appoint et fam"
+    },
+    {
+     "q": "Comment est la chambre familiale ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La chambre familiale accueille 4 personnes : deux chambres doubles indépendantes partageant une salle de bain commune, chacune avec 2 lits d"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : l'hôtel a une cafétéria où prendre le petit-déjeuner. Il est payant à part ; confirmez le montant auprès de l'hôtel."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il dispose d'un parking privé dans l'immeuble, payant à la journée. Il conseille de réserver la place car il y en a peu et recommande des vé"
+    },
+    {
+     "q": "Peut-on arriver en voiture ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Avis de l'hôtel : la calle Trajano est fermée à la circulation pour des travaux municipaux du 19 mai 2026 au 4 février 2027 et n'est accessi"
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il se trouve C/ Trajano, 31, 41002 Séville, dans le centre historique, entre l'Alameda de Hércules et la plaza del Duque de la Victoria, à d"
+    },
+    {
+     "q": "Que voir à proximité ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Son site propose, entre autres, la Cathédrale et la Giralda, les Reales Alcázares, l'Archivo de Indias, la Torre del Oro, la Plaza de España"
+    },
+    {
+     "q": "Quels services propose-t-il ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Services : wifi gratuit, parking privé, climatisation et chauffage, chambres insonorisées, lit bébé gratuit pour les moins de 2 ans, coffre-"
+    },
+    {
+     "q": "À quelle heure est l'arrivée ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "L'arrivée est à 13:00 et le départ au plus tard à 12:00. Si vous arrivez plus tôt, vos bagages peuvent être gardés gratuitement à la récepti"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 954 381 161 ou écrire à info@hotelveneciasevilla.es. Ce"
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Non : les animaux ne sont admis ni dans l'hôtel ni dans les chambres."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sa mention légale indique que le titulaire du site est Hotel Venecia S.L., CIF B-91848143 ; c'est un hôtel trois étoiles inscrit au Registre"
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 954 381 161 · info@hotelveneciasevilla.es."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 954 381 161 ou écrire à info@hotelveneciasevilla.es. Ce"
+    },
+    {
+     "q": "Avez-vous une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 954 381 161 · info@hotelveneciasevilla.es."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 954 381 161 · info@hotelveneciasevilla.es."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
