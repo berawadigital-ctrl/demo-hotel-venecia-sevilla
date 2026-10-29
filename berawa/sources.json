@@ -1,0 +1,58 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelveneciasevilla.es/",
+ "read_at": "2026-10-29T10:51:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelveneciasevilla.es/",
+   "sha256": "47aaad03ace470ac44fb67e0d80ed8ee16202b8d0dce20964d1ce7296f07a754",
+   "chars": 4530
+  },
+  {
+   "url": "https://www.hotelveneciasevilla.es/aviso-legal/",
+   "sha256": "7ca11202f203ab1889507face7d2ec194970ab8f60cb558621a0216dfa8a0bfb",
+   "chars": 10797
+  },
+  {
+   "url": "https://www.hotelveneciasevilla.es/experiencias/",
+   "sha256": "de7a608d1d45fb0b673a14cd1c713bf2e5ef2ac950ab055d6716cb11d763052f",
+   "chars": 2983
+  },
+  {
+   "url": "https://www.hotelveneciasevilla.es/habitaciones-hotel-venecia/",
+   "sha256": "f18b42714328898bde95c7e9f8da964cad24fab1a66661fbc2c7fdc954623bfa",
+   "chars": 3821
+  },
+  {
+   "url": "https://www.hotelveneciasevilla.es/preguntas-frecuentes/",
+   "sha256": "63fb35164fd1c896dda1e9144468a8da0167e8f0b9286e65f7623879a649d99e",
+   "chars": 8073
+  },
+  {
+   "url": "https://www.hotelveneciasevilla.es/servicios/",
+   "sha256": "7cbf1965a7f4d8698465d2ecabda2c737d7ad3ed400e30fb019eb4bd3d10422f",
+   "chars": 3173
+  },
+  {
+   "url": "https://www.hotelveneciasevilla.es/situacion/",
+   "sha256": "67db913688ce336e4064a1eb8f252c8ba93949686c9556bf38ed5e73927268e0",
+   "chars": 3887
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelveneciasevilla.es/contacto/",
+  "https://www.hotelveneciasevilla.es/en/contact/",
+  "https://www.hotelveneciasevilla.es/en/experiences/",
+  "https://www.hotelveneciasevilla.es/en/gallery/",
+  "https://www.hotelveneciasevilla.es/en/home/",
+  "https://www.hotelveneciasevilla.es/en/location/",
+  "https://www.hotelveneciasevilla.es/en/offers/",
+  "https://www.hotelveneciasevilla.es/en/rooms/",
+  "https://www.hotelveneciasevilla.es/en/services/",
+  "https://www.hotelveneciasevilla.es/galeria/",
+  "https://www.hotelveneciasevilla.es/ofertas/",
+  "https://www.hotelveneciasevilla.es/politica-de-cookies/",
+  "https://www.hotelveneciasevilla.es/politica-de-privacidad/"
+ ]
+}
