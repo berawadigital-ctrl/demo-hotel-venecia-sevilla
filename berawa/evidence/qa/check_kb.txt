@@ -1,3 +1,0 @@
-entradas 12 fallos de citas/cifras 0
-knowledge.json coincide con knowledge_hotel_venecia_sevilla.py
-REGLA DE PRECIOS: CUMPLE
